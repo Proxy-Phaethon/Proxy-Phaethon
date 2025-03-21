@@ -1,7 +1,7 @@
 ## hey,  i'm  yuki :)
 
 self-taught full-stack developer</br>
-currently looking to increase my skills</br>
+trying to increase my skills</br>
 i like retro stuff too much</br>
 
 # 💫 About Me:
