@@ -1,6 +1,6 @@
 ## hey,  i'm  yuki :)
 
-self-taught full-stack developer</br>
+self-teaching?</br>
 trying to increase my skills</br>
 i like retro stuff too much</br>
 
