@@ -16,10 +16,8 @@ I'm a **Full-Stack Developer** with a background in **Criminology** and **Creati
 - **Tools & Platforms:** Docker, AWS, Git & GitHub, OAuth
 
 ## Featured Projects
-- **[Wise](#)** – A lightweight project management platform.
-- **[Vault](#)** – A free online portfolio builder.
-- **[UnList](#)** – A multi-purpose tracking app for media, bucket lists, and more.
-- **[Bastet Rescue](#)** – A global platform for animal rescue and welfare.
+- **[Wise](https://github.com/Proxy-Phaethon/Wise)** – A lightweight project management platform.
+- **[Vault](https://github.com/Proxy-Phaethon/Vault)** – A free online portfolio builder.
 
 ## Currently Learning
 - Advanced system architecture & cloud solutions 
