@@ -1,6 +1,6 @@
 # Hi, I'm Zia Hawwa Rasheed 
 
- *BA in Criminology (2025)** | Aspiring Neuroscientist | Neuroprosthetics & Soft Robotics Enthusiast  
+ *BA in Criminology (2025)* | Aspiring Neuroscientist | Neuroprosthetics & Soft Robotics Enthusiast  
 
 I’m transitioning from a background in criminology and behavioral science into **neuroscience, brain–cognition research, and prosthetics design**.  
 My long-term goal: to study **neural pathways** and combine them with **robotics and AI** to create advanced prosthetics that restore function and expand human capability.  
