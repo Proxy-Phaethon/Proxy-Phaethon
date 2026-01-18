@@ -19,6 +19,7 @@ I’m a creator building **Retrogade**, a fully customizable desktop widget ecos
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact Me
-- [Email](rziahawwa@gmail.com)  
+- Email - rziahawwa@gmail.com
+- LinkedIn - Zia Hawwa Rasheed
 
 ---
