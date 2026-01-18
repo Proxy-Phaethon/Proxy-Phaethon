@@ -1,24 +1,24 @@
-# Hi, I'm Zia Hawwa Rasheed 
+# Hi, I’m Zia Hawwa  
+*AKA Proxy-Phaethon on GitHub*  
 
- *BA in Criminology (2025)* | Aspiring Neuroscientist | Neuroprosthetics & Soft Robotics Enthusiast  
+I’m a creator building **Retrogade**, a fully customizable desktop widget ecosystem for Mac (and eventually Windows). My mission: make creative people’s workspaces fun, inspiring, and productive.  
 
-I’m transitioning from a background in criminology and behavioral science into **neuroscience, brain–cognition research, and prosthetics design**.  
-My long-term goal: to study **neural pathways** and combine them with **robotics and AI** to create advanced prosthetics that restore function and expand human capability.  
+## Current Projects
+- **Retrogade** – A widget-based UI for your desktop  
+  - Current Themes: Motivational Diva, Pixel Retro, Cybercore  
+  - Widgets: Clock, Calendar, Pomodoro, Music Player, Mini Avatar, Gamified Life Tasks, and more  
+- Personal web projects and apps (coming soon!)  
+
+### Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Contact Me
+- [Email](rziahawwa@gmail.com)  
 
 ---
-
-## Current Focus
-- **NeuroTip Project**: Designing a fingertip prosthetic prototype, combining **Fusion 360 modeling**, **Godot simulations**, and **code frameworks** in **Visual Studio**.  
-- Exploring links between **neural signals, brain plasticity, and prosthetic feedback systems**.  
-- Building skills in **neuroprosthetics research**, **soft robotics**, and **cognitive systems**.  
-
----
-
-## Tools & Technologies
-- **Modeling & Simulation:** Fusion 360 · Godot Engine  
-- **Programming & Version Control:** Visual Studio · GitHub  
-- **Research & Analysis:** SPSS · Python (basic) · Data Analysis methods  
-- **Domains of Interest:** Neuroscience · Cognitive Science · Robotics · AI  
-
----
- *Currently building a foundation in neuroscience research while pursuing certificates, publications, and hands-on projects before my MSc.*  
