@@ -1,81 +1,39 @@
-# Hi, I’m Zia Hawwa  
-*AKA Proxy-Phaethon on GitHub*  
+## Hi, I’m Zia
 
-# Retrogade
-
-Retrogade is a creative social platform for artists, writers, developers, and builders who prefer **craft over noise**.
-
-It combines customizable profile pages (in styles like neobrutalism, cyberpunk, and retro web) with portfolios, slow daily posting, and a skill-based progression system designed around consistency and real work, not clout.
-
-The goal is simple:
-
-Build a place where people can share what they make, grow quietly, and be trusted for what they actually know how to do.
-
-No infinite posting.  
-No algorithmic shouting.  
-No turning creativity into a race.
+Cybersecurity student at Harvard.  
+Working on robotics and software.  
+Likes cats.
 
 ---
 
-## Core ideas
+## Tech Stack
 
-- One meaningful post per day  
-- Deep profile customization & themes  
-- Built-in portfolios  
-- Skill progression based on verified work  
-- Optional manual verification for authenticity  
-- Community-first design (not recruiter-first)
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
----
+### Web
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 
-## Tech stack
+### Backend & Systems
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat&logo=tailwind-css)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-111111?style=flat&logo=redis)
-
-### Security & Infrastructure
-![OAuth](https://img.shields.io/badge/OAuth2-111111?style=flat)
-![JWT](https://img.shields.io/badge/JWT-111111?style=flat&logo=jsonwebtokens)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Status
-
-Retrogade is currently in early development.
-
-Features in progress:
-- Profile theming system  
-- Daily post limit engine  
-- Portfolio pages  
-- Skill tracking & XP system  
-- Verification pipeline design  
-
----
-
-## Name
-
-**Retrogade** = retro + renegade + arcade.
-
-A small rebellion against loud platforms.
-
----
-
-More soon.
-
----
-
-## Contact Me
-- Email - rziahawwa@gmail.com
-- LinkedIn - Zia Hawwa Rasheed
-
----
+## Contact
+- Instagram: @zia.hawwa
+- Email: rziahawwa@gmail.com
+- Portfolio: coming soon
