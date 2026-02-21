@@ -1,6 +1,6 @@
 ## Hi, I’m Zia
 
-Cybersecurity student at Harvard.  
+Cybersecurity student.  
 Working on robotics and software.  
 Likes cats.
 
