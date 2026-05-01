@@ -1,7 +1,7 @@
 ## Hi, I’m Zia
 
-Cybersecurity student.  
-Working on robotics and software.  
+Cybersecurity enthusiast. Web Developer.  
+Learning robotics and game dev.  
 Likes cats.
 
 ---
