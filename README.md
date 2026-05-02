@@ -10,10 +10,10 @@ Likes cats.
 ## Tech Stack
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-00599C?logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-00599C?logo=html&logoColor=white)
 
 ### Web
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
