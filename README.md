@@ -43,15 +43,6 @@ no black boxes, just architecture without the boilerplate.
 
 </div>
 
-### stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Proxy-Phaethon&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proxy-Phaethon&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ### connect
 
 <div align="center">
