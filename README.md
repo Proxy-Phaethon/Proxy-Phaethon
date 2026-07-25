@@ -20,6 +20,8 @@ programming redundancy by translating one minimal, human-readable syntax
 into real HTML, CSS, JavaScript, Python, and beyond — no generative AI,
 no black boxes, just architecture without the boilerplate.
 
+https://github.com/Proxy-Phaethon/chaos 
+
 *the long-term goal: take this all the way through my MSc and beyond.*
 
 </td>
