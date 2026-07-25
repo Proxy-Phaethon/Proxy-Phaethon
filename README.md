@@ -3,8 +3,7 @@
 # zia hawwa rasheed
 
 MSc Computer Science @ University of Birmingham *(in progress)*, 
-building **Chaos** — a language that turns one syntax into every language
-into computational linguistics — where code meets how humans actually communicate
+building **Chaos** — a language that turns one syntax into every language. learning computational linguistics — where code meets how humans actually communicate
 
 </div>
 
