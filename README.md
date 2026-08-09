@@ -2,8 +2,8 @@
 
 # zia hawwa rasheed
 
-MSc Computer Science @ University of Birmingham *(in progress)*, 
-building **Chaos**: a language that turns one syntax into every language. learning computational linguistics; where code meets how humans actually communicate
+MSc Computer Science @ University of Birmingham *(soon?)*, 
+building **Chaos**: a programming language that sort of imitates computation structures. i'm sorry.
 
 </div>
 
@@ -15,10 +15,7 @@ building **Chaos**: a language that turns one syntax into every language. learni
 <tr>
 <td width="100%">
 
-**Chaos** — my flagship project. A CLI tool (built in Rust) that removes
-programming redundancy by translating one minimal, human-readable syntax
-into real HTML, CSS, JavaScript, Python, and beyond — no generative AI,
-no black boxes, just architecture without the boilerplate.
+**Chaos** — my flagship project. it's a programming language. yes.
 
 https://github.com/Proxy-Phaethon/chaos 
 
@@ -57,5 +54,5 @@ https://github.com/Proxy-Phaethon/chaos
 </div>
 
 <div align="center">
-<sub>thanks for stopping by — currently deep in Rust, send money</sub>
+<sub>thanks for stopping by — currently deep in C, send money</sub>
 </div>
