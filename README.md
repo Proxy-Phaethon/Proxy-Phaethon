@@ -42,6 +42,7 @@ https://github.com/Proxy-Phaethon/chaos
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-90bafc?style=for-the-badge&logo=c&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-70010a?style=for-the-badge&logo=assembly&logoColor=white)
 
 </div>
 
