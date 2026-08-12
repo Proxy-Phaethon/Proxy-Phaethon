@@ -25,6 +25,10 @@ https://github.com/Proxy-Phaethon/chaos
 </tr>
 </table>
 
+Also working on:
+
+**Theseus** - a translator for C/C++ code, because i simply cannot stare at a file written in C without going mental.
+
 ### what I'm into
 
 - **Computational linguistics** — how language, structure, and computation intersect
