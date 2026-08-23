@@ -52,5 +52,7 @@ Also working on:
 </div>
 
 <div align="center">
+  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6V625LPOD)
+
 </div>
