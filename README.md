@@ -19,6 +19,8 @@ Also working on:
 
 **The Book of Thoth** - my self-taught repo on algorithms and data structures in C, C++, and Python. it's just a hobby.
 
+https://github.com/Proxy-Phaethon/book-of-thoth
+
 ### what I'm into
 
 - **Computational linguistics** — how language, structure, and computation intersect
