@@ -51,4 +51,6 @@ Also working on:
 <sub>thanks for stopping by — currently deep in C, send money</sub>
 </div>
 
+<div align="center">
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6V625LPOD)
+</div>
