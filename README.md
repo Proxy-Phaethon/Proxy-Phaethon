@@ -11,7 +11,7 @@ building **Chaos**: a programming language that sort of imitates computation str
 
 ### currently building
 
-**Chaos** — my flagship project. it's like an extremely complicated calculator, cause why not.
+**Chaos** - my flagship project. it's like an extremely complicated calculator, cause why not.
 
 https://github.com/Proxy-Phaethon/chaos 
 
