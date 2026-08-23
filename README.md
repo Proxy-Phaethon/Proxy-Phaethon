@@ -11,19 +11,9 @@ building **Chaos**: a programming language that sort of imitates computation str
 
 ### currently building
 
-<table>
-<tr>
-<td width="100%">
-
 **Chaos** — my flagship project. it's like an extremely complicated calculator, cause why not.
 
 https://github.com/Proxy-Phaethon/chaos 
-
-*the long-term goal: take this all the way through my MSc and beyond.*
-
-</td>
-</tr>
-</table>
 
 Also working on:
 
