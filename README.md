@@ -17,7 +17,7 @@ https://github.com/Proxy-Phaethon/chaos
 
 Also working on:
 
-**Theseus** - a translator for C/C++ code, because i simply cannot stare at a file written in C without going mental.
+**The Book of Thoth** - my self-taught repo on algorithms and data structures in C, C++, and Python. it's just a hobby.
 
 ### what I'm into
 
