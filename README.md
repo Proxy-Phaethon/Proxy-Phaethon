@@ -15,7 +15,7 @@ building **Chaos**: a programming language that sort of imitates computation str
 <tr>
 <td width="100%">
 
-**Chaos** — my flagship project. it's a programming language. yes.
+**Chaos** — my flagship project. it's like an extremely complicated calculator, cause why not.
 
 https://github.com/Proxy-Phaethon/chaos 
 
