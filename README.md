@@ -49,5 +49,5 @@ Also working on:
 
 <div align="center">
 <sub>thanks for stopping by — currently deep in C, send money</sub>
-  <sub>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6V625LPOD)</sub>
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6V625LPOD)
 </div>
