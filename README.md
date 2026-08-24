@@ -15,6 +15,10 @@ building **Chaos**: a programming language that sort of imitates computation str
 
 https://github.com/Proxy-Phaethon/chaos 
 
+**C-Verse** - a lightweight physics engine for indie games. yes, they already exist, but i think this is an excellent way to learn C++ and mathematics in one go.
+
+https://github.com/Proxy-Phaethon/c-verse
+
 Also working on:
 
 **The Book of Thoth** - my self-taught repo on algorithms and data structures in C, C++, and Python. it's just a hobby.
