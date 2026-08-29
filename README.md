@@ -2,34 +2,67 @@
 
 # zia hawwa rasheed
 
-MSc Computer Science @ University of Birmingham *(soon?)*, 
-building **Chaos**: a programming language that sort of imitates computation structures. i'm sorry.
+MSc Computer Science @ University of Birmingham (soon?), building software to understand computation, mathematics, physics, and intelligent systems.
 
-</div>
+Currently building:
+
+### Chaos
+
+**C · Computational Research Language**
+
+A programming language built from scratch around computational structures rather than conventional application programming.
+
+Chaos is intended as a deterministic research environment: a persistent, executable workspace for organizing research questions, data, sources, computations, experiments, and results.
+
+[github.com/Proxy-Phaethon/chaos](https://github.com/Proxy-Phaethon/chaos)
+
+### C-Verse
+
+**C++ · Physics Engine**
+
+A lightweight, open-source 2D/3D physics engine for indie game developers, built from scratch in C++.
+
+The project doubles as a way to learn and implement the mathematics behind simulation, including vectors, matrices, geometry, dynamics, collision detection, and numerical methods.
+
+[github.com/Proxy-Phaethon/c-verse](https://github.com/Proxy-Phaethon/c-verse)
+
+### Theseus
+
+**Python · Local SLM Research Assistant**
+
+A local small language model system designed to work with Chaos research workspaces.
+
+Rather than treating the model as the source of truth, Theseus operates on a persistent Chaos repository: retrieving information, searching the web, performing analysis, running deterministic computations, and updating the research state.
+
+The goal is a research assistant that can acquire knowledge when needed while keeping the underlying research workspace structured, reproducible, and inspectable.
+
+[github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
+
+### The Book of Thoth
+
+**C · C++ · Python · Algorithms & Data Structures**
+
+A self-taught collection of algorithms and data structures implemented from scratch in C, C++, and Python.
+
+Part study notebook, part reference library, part ongoing experiment in understanding how fundamental computer science concepts actually work.
+
+[github.com/Proxy-Phaethon/book-of-thoth](https://github.com/Proxy-Phaethon/book-of-thoth)
 
 ---
 
-### currently building
+## what I'm interested in
 
-**Chaos** - my flagship project. it's like an extremely complicated calculator, cause why not.
+* Computational linguistics
+* Programming language design
+* Computational structures
+* Algorithms and data structures
+* Mathematics and numerical methods
+* Physics simulation
+* Local AI and intelligent systems
+* Research tooling
+* Reducing the distance between what a person means and what a machine needs
 
-https://github.com/Proxy-Phaethon/chaos 
-
-**C-Verse** - a lightweight physics engine for indie games. yes, they already exist, but i think this is an excellent way to learn C++ and mathematics in one go.
-
-https://github.com/Proxy-Phaethon/c-verse
-
-Also working on:
-
-**The Book of Thoth** - my self-taught repo on algorithms and data structures in C, C++, and Python. it's just a hobby.
-
-https://github.com/Proxy-Phaethon/book-of-thoth
-
-### what I'm into
-
-- **Computational linguistics** — how language, structure, and computation intersect
-- Language design & how syntax shapes the way we think about problems
-- Reducing friction between *what a person means* and *what a machine needs*
+---
 
 ### languages
 
@@ -39,7 +72,6 @@ https://github.com/Proxy-Phaethon/book-of-thoth
 ![C++](https://img.shields.io/badge/C++-90bafc?style=flat-square&logo=c%2B%2B&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-90bafc?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-70010a?style=for-the-badge&logo=assembly&logoColor=white)
 
 </div>
 
