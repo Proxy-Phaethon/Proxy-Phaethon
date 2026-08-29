@@ -4,6 +4,8 @@
 
 MSc Computer Science @ University of Birmingham (soon?), building software to understand computation, mathematics, physics, and intelligent systems.
 
+</div>
+
 Currently building:
 
 ### Chaos
