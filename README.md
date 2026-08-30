@@ -2,7 +2,7 @@
 
 # zia hawwa rasheed
 
-MSc Computer Science @ University of Birmingham (soon?), building software to understand computation, mathematics, physics, and intelligent systems.
+self-taught, doing cs50x rn, building software to understand computation, mathematics, physics, and intelligent systems, i like space and cats
 
 </div>
 
