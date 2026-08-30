@@ -18,16 +18,6 @@ Chaos is intended as a deterministic research environment: a persistent, executa
 
 [github.com/Proxy-Phaethon/chaos](https://github.com/Proxy-Phaethon/chaos)
 
-### C-Verse
-
-**C++ · Physics Engine**
-
-A lightweight, open-source 2D/3D physics engine for indie game developers, built from scratch in C++.
-
-The project doubles as a way to learn and implement the mathematics behind simulation, including vectors, matrices, geometry, dynamics, collision detection, and numerical methods.
-
-[github.com/Proxy-Phaethon/c-verse](https://github.com/Proxy-Phaethon/c-verse)
-
 ### Theseus
 
 **Python · Local SLM Research Assistant**
@@ -39,6 +29,16 @@ Rather than treating the model as the source of truth, Theseus operates on a per
 The goal is a research assistant that can acquire knowledge when needed while keeping the underlying research workspace structured, reproducible, and inspectable.
 
 [github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
+
+### C-Verse
+
+**C++ · Physics Engine**
+
+A lightweight, open-source 2D/3D physics engine for indie game developers, built from scratch in C++.
+
+The project doubles as a way to learn and implement the mathematics behind simulation, including vectors, matrices, geometry, dynamics, collision detection, and numerical methods.
+
+[github.com/Proxy-Phaethon/c-verse](https://github.com/Proxy-Phaethon/c-verse)
 
 ### The Book of Thoth
 
