@@ -10,7 +10,7 @@ Currently building:
 
 ### Chaos
 
-**C · Computational Research Language**
+**C · Computational Research Language · v1.0.0 has been released**
 
 A programming language built from scratch around computational structures rather than conventional application programming.
 
