@@ -40,16 +40,6 @@ The project doubles as a way to learn and implement the mathematics behind simul
 
 [github.com/Proxy-Phaethon/c-verse](https://github.com/Proxy-Phaethon/c-verse)
 
-### The Book of Thoth
-
-**C · C++ · Python · Algorithms & Data Structures**
-
-A self-taught collection of algorithms and data structures implemented from scratch in C, C++, and Python.
-
-Part study notebook, part reference library, part ongoing experiment in understanding how fundamental computer science concepts actually work.
-
-[github.com/Proxy-Phaethon/book-of-thoth](https://github.com/Proxy-Phaethon/book-of-thoth)
-
 ---
 
 ## what I'm interested in
