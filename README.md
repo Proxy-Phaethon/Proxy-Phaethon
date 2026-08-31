@@ -51,8 +51,6 @@ The goal is a research assistant that can acquire knowledge when needed while ke
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-90bafc?style=flat-square&logo=c%2B%2B&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-90bafc?style=for-the-badge&logo=c&logoColor=black)
 
 </div>
