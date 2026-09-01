@@ -2,47 +2,56 @@
 
 # zia hawwa rasheed
 
-self-taught, doing cs50x rn, building software to understand computation, mathematics, physics, and intelligent systems, i like space and cats
+self-taught, doing cs50x rn, building software to understand computation, mathematics, physics, and intelligent systems, i like space and cats | i just want a high-paying job and a career in modelling :')
 
 </div>
 
-Currently building:
-
-### Chaos
-
-**C · Computational Research Language · v1.0.0 has been released**
-
-A programming language built from scratch around computational structures rather than conventional application programming.
-
-Chaos is intended as a deterministic research environment: a persistent, executable workspace for organizing research questions, data, sources, computations, experiments, and results.
-
-[github.com/Proxy-Phaethon/chaos](https://github.com/Proxy-Phaethon/chaos)
+## Currently building
 
 ### Theseus
 
 **Python · Local SLM Research Assistant**
 
-A local small language model system designed to work with Chaos research workspaces.
+A local small language model system designed to operate within structured research environments.
 
-Rather than treating the model as the source of truth, Theseus operates on a persistent Chaos repository: retrieving information, searching the web, performing analysis, running deterministic computations, and updating the research state.
+Rather than treating the model as the source of truth, Theseus is designed to acquire information, search the web, perform analysis, execute deterministic computations, manipulate documents, and operate on persistent research workspaces.
 
-The goal is a research assistant that can acquire knowledge when needed while keeping the underlying research workspace structured, reproducible, and inspectable.
+The goal is to build an intelligent system that can interact with an environment while keeping its underlying state structured, reproducible, and inspectable.
 
 [github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
 
----
+### C-Verse
 
-## what I'm interested in
+**Python · Computer Vision Engine**
 
-* Computational linguistics
+A lightweight computer vision engine built around the mathematical and algorithmic foundations of visual computing.
+
+C-Verse explores image representation, transformations, filtering, feature extraction, and visual analysis while emphasizing understanding the mathematics behind the algorithms.
+
+[github.com/Proxy-Phaethon/c-verse](https://github.com/Proxy-Phaethon/c-verse)
+
+### Chaos
+
+**C · Computational Research Language · v1.0.0**
+
+A programming language built from scratch around computational structures rather than conventional application programming.
+
+Chaos is designed as a deterministic research environment: a persistent, executable workspace for organizing research questions, data, sources, computations, experiments, and results.
+
+[github.com/Proxy-Phaethon/chaos](https://github.com/Proxy-Phaethon/chaos)
+
+## What I'm interested in
+
+* Computer vision
+* Artificial intelligence and intelligent systems
+* Algorithms and data structures
 * Programming language design
 * Computational structures
-* Algorithms and data structures
 * Mathematics and numerical methods
 * Physics simulation
-* Local AI and intelligent systems
 * Research tooling
-* Reducing the distance between what a person means and what a machine needs
+* Systems programming
+* Building software from first principles
 
 ---
 
