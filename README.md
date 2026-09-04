@@ -10,7 +10,7 @@ Criminology graduate interested in crime analytics, fraud detection, financial c
 
 ### Theseus
 
-**Python · Local SLM Research Assistant**
+**Python · Research & OSINT Assistant**
 
 A Python-based research assistant designed for structured information retrieval and OSINT-oriented analysis.
 
@@ -84,7 +84,7 @@ Systems & Computational Programming
 </div>
 
 <div align="center">
-<sub>thanks for stopping by — currently deep in algorithms, send money</sub>
+<sub>thanks for stopping by</sub>
 </div>
 
 ---
