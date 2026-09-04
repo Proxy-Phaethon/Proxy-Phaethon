@@ -2,7 +2,7 @@
 
 # zia hawwa rasheed
 
-self-taught, doing cs50x rn, building software to understand computation, mathematics, physics, and intelligent systems, i like space and cats | i just want a high-paying job and a career in modelling :')
+Criminology graduate interested in crime analytics, fraud detection, financial crime, intelligence analysis, and OSINT.
 
 </div>
 
@@ -12,11 +12,9 @@ self-taught, doing cs50x rn, building software to understand computation, mathem
 
 **Python · Local SLM Research Assistant**
 
-A local small language model system designed to operate within structured research environments.
+A Python-based research assistant designed for structured information retrieval and OSINT-oriented analysis.
 
-Rather than treating the model as the source of truth, Theseus is designed to acquire information, search the web, perform analysis, execute deterministic computations, manipulate documents, and operate on persistent research workspaces.
-
-The goal is to build an intelligent system that can interact with an environment while keeping its underlying state structured, reproducible, and inspectable.
+Theseus explores how software can support investigative research by processing queries, retrieving information, performing deterministic analysis, and maintaining structured research state.
 
 [github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
 
@@ -24,34 +22,45 @@ The goal is to build an intelligent system that can interact with an environment
 
 **Python · Computer Vision Engine**
 
-A lightweight computer vision engine built around the mathematical and algorithmic foundations of visual computing.
-
-C-Verse explores image representation, transformations, filtering, feature extraction, and visual analysis while emphasizing understanding the mathematics behind the algorithms.
+A computer vision project exploring image representation, transformations, filtering, feature extraction, and visual analysis.
 
 [github.com/Proxy-Phaethon/c-verse](https://github.com/Proxy-Phaethon/c-verse)
 
-### Chaos
-
-**C · Computational Research Language · v1.0.0**
-
-A programming language built from scratch around computational structures rather than conventional application programming.
-
-Chaos is designed as a deterministic research environment: a persistent, executable workspace for organizing research questions, data, sources, computations, experiments, and results.
-
-[github.com/Proxy-Phaethon/chaos](https://github.com/Proxy-Phaethon/chaos)
-
 ## What I'm interested in
+My academic research has focused on crime, violence, media, moral reasoning, and public perceptions.
 
-* Computer vision
-* Artificial intelligence and intelligent systems
-* Algorithms and data structures
-* Programming language design
-* Computational structures
-* Mathematics and numerical methods
-* Physics simulation
-* Research tooling
-* Systems programming
-* Building software from first principles
+I have experience with:
+
+Quantitative survey research
+Data collection and validation
+Descriptive statistics
+Comparative analysis
+Qualitative thematic analysis
+Identifying patterns in behavioral and attitudinal data
+Synthesizing primary research with academic literature
+
+---
+
+## Technical Interests
+
+Python
+Data Analysis
+Statistics
+Quantitative Research
+Data Visualization
+Pattern Analysis
+
+OSINT
+Investigative Research
+Crime Analytics
+Fraud Analytics
+Intelligence Analysis
+
+Algorithms & Data Structures
+Computer Vision
+Artificial Intelligence
+Research Tools
+Systems & Computational Programming
 
 ---
 
@@ -60,7 +69,7 @@ Chaos is designed as a deterministic research environment: a persistent, executa
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-90bafc?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-90bafc?style=for-the-badge&logo=c&logoColor=black)
 
 </div>
 
@@ -75,7 +84,7 @@ Chaos is designed as a deterministic research environment: a persistent, executa
 </div>
 
 <div align="center">
-<sub>thanks for stopping by — currently deep in C, send money</sub>
+<sub>thanks for stopping by — currently deep in algorithms, send money</sub>
 </div>
 
 ---
