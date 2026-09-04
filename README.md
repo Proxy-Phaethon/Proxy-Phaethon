@@ -31,35 +31,35 @@ My academic research has focused on crime, violence, media, moral reasoning, and
 
 I have experience with:
 
-Quantitative survey research
-Data collection and validation
-Descriptive statistics
-Comparative analysis
-Qualitative thematic analysis
-Identifying patterns in behavioral and attitudinal data
-Synthesizing primary research with academic literature
+* Quantitative survey research
+* Data collection and validation
+* Descriptive statistics
+* Comparative analysis
+* Qualitative thematic analysis
+* Identifying patterns in behavioral and attitudinal data
+* Synthesizing primary research with academic literature
 
 ---
 
 ## Technical Interests
 
-Python
-Data Analysis
-Statistics
-Quantitative Research
-Data Visualization
-Pattern Analysis
+Python,
+Data Analysis,
+Statistics,
+Quantitative Research,
+Data Visualization,
+Pattern Analysis,
 
-OSINT
-Investigative Research
-Crime Analytics
-Fraud Analytics
-Intelligence Analysis
+OSINT,
+Investigative Research,
+Crime Analytics,
+Fraud Analytics,
+Intelligence Analysis,
 
-Algorithms & Data Structures
-Computer Vision
-Artificial Intelligence
-Research Tools
+Algorithms & Data Structures,
+Computer Vision,
+Artificial Intelligence,
+Research Tools,
 Systems & Computational Programming
 
 ---
