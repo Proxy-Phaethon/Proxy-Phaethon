@@ -48,13 +48,13 @@ Data Analysis,
 Statistics,
 Quantitative Research,
 Data Visualization,
-Pattern Analysis,
+Pattern Analysis
 
 OSINT,
 Investigative Research,
 Crime Analytics,
 Fraud Analytics,
-Intelligence Analysis,
+Intelligence Analysis
 
 Algorithms & Data Structures,
 Computer Vision,
