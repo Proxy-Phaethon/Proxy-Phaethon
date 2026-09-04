@@ -69,7 +69,7 @@ Systems & Computational Programming
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-90bafc?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-90bafc?style=for-the-badge&logo=sql&logoColor=black)
 
 </div>
 
