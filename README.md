@@ -18,14 +18,6 @@ Theseus explores how software can support investigative research by processing q
 
 [github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
 
-### C-Verse
-
-**Python · Computer Vision Engine**
-
-A computer vision project exploring image representation, transformations, filtering, feature extraction, and visual analysis.
-
-[github.com/Proxy-Phaethon/c-verse](https://github.com/Proxy-Phaethon/c-verse)
-
 ## What I'm interested in
 My academic research has focused on crime, violence, media, moral reasoning, and public perceptions.
 
