@@ -6,7 +6,7 @@ Criminology graduate interested in crime analytics, fraud detection, financial c
 
 </div>
 
-## Currently building
+## currently building
 
 ### Theseus
 
@@ -17,19 +17,6 @@ A Python-based research assistant designed for structured information retrieval 
 Theseus explores how software can support investigative research by processing queries, retrieving information, performing deterministic analysis, and maintaining structured research state.
 
 [github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
-
-## What I'm interested in
-My academic research has focused on crime, violence, media, moral reasoning, and public perceptions.
-
-I have experience with:
-
-* Quantitative survey research
-* Data collection and validation
-* Descriptive statistics
-* Comparative analysis
-* Qualitative thematic analysis
-* Identifying patterns in behavioral and attitudinal data
-* Synthesizing primary research with academic literature
 
 ---
 
