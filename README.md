@@ -2,8 +2,6 @@
 
 # zia hawwa rasheed
 
-Criminology graduate interested in crime analytics, fraud detection, financial crime, intelligence analysis, and OSINT.
-
 </div>
 
 ## currently building
@@ -20,35 +18,11 @@ Theseus explores how software can support investigative research by processing q
 
 ---
 
-## Technical Interests
-
-Python,
-Data Analysis,
-Statistics,
-Quantitative Research,
-Data Visualization,
-Pattern Analysis
-
-OSINT,
-Investigative Research,
-Crime Analytics,
-Fraud Analytics,
-Intelligence Analysis
-
-Algorithms & Data Structures,
-Computer Vision,
-Artificial Intelligence,
-Research Tools,
-Systems & Computational Programming
-
----
-
 ### languages
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-90bafc?style=for-the-badge&logo=mysql&logoColor=black)
 
 </div>
 
@@ -64,12 +38,4 @@ Systems & Computational Programming
 
 <div align="center">
 <sub>thanks for stopping by</sub>
-</div>
-
----
-
-<div align="center">
-  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6V625LPOD)
-
 </div>
