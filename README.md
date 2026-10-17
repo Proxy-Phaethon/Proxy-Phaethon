@@ -6,7 +6,7 @@
 
 ## currently building
 
-### Theseus
+**Theseus**
 
 **Python · Research & OSINT Assistant**
 
