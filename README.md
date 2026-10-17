@@ -2,19 +2,19 @@
 
 # zia hawwa rasheed
 
-</div>
-
-## currently building
+### currently building
 
 **Theseus**
 
-**Python · Research & OSINT Assistant**
+*Python · Research & OSINT Assistant*
 
 A Python-based research assistant designed for structured information retrieval and OSINT-oriented analysis.
 
 Theseus explores how software can support investigative research by processing queries, retrieving information, performing deterministic analysis, and maintaining structured research state.
 
 [github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
+
+</div>
 
 ---
 
