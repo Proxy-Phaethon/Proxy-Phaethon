@@ -6,11 +6,11 @@
 
 **Theseus**
 
-*Python · Research & OSINT Assistant*
+*Python · Digital Artefact Extraction · OSINT*
 
-A Python-based research assistant designed for structured information retrieval and OSINT-oriented analysis.
+A modular command-line tool for identifying and extracting structured information from digital artefacts.
 
-Theseus explores how software can support investigative research by processing queries, retrieving information, performing deterministic analysis, and maintaining structured research state.
+Theseus processes artefacts through specialised extractors, returning structured data with provenance and explicitly identified entities. Its architecture is designed to support a broad range of digital sources, from web and network artefacts to documents, communications, and system metadata.
 
 [github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
 
