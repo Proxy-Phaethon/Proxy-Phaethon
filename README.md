@@ -2,17 +2,23 @@
 
 # zia hawwa rasheed
 
+game developer · investigator at heart
+
+Building interactive experiences, investigative tools, and things that probably involve a suspicious amount of research.
+
+Interested in crime, digital forensics, intelligence, investigative storytelling, and the intersection between technology and human behaviour.
+
+---
+
 ### currently building
 
-**Theseus**
+**Operation Heimat**
 
-*Python · Digital Artefact Extraction · OSINT*
+*Game Development · Investigative Fiction · Interactive Storytelling*
 
-A modular command-line tool for identifying and extracting structured information from digital artefacts.
+An investigative game project centred around uncovering secrets, navigating interconnected narratives, and piecing together information hidden throughout a fictional digital world.
 
-Theseus processes artefacts through specialised extractors, returning structured data with provenance and explicitly identified entities. Its architecture is designed to support a broad range of digital sources, from web and network artefacts to documents, communications, and system metadata.
-
-[github.com/Proxy-Phaethon/theseus](https://github.com/Proxy-Phaethon/theseus)
+Built around environmental storytelling, fictional institutions, online rabbit holes, and investigative mechanics that encourage players to question what they're being told.
 
 ---
 
