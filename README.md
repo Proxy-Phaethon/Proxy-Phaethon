@@ -20,11 +20,15 @@ An investigative game project centred around uncovering secrets, navigating inte
 
 Built around environmental storytelling, fictional institutions, online rabbit holes, and investigative mechanics that encourage players to question what they're being told.
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/operationheimat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heimatoperation@gmail.com)
+
 ---
 
 ### languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### connect
 
