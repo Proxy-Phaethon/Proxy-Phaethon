@@ -27,7 +27,7 @@ Built around environmental storytelling, fictional institutions, online rabbit h
 
 ### languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python)
 ![C#](https://skillicons.dev/icons?i=cs)
 
 ### connect
