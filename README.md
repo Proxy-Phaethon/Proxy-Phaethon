@@ -10,21 +10,6 @@ Interested in crime, digital forensics, intelligence, investigative storytelling
 
 ---
 
-### currently building
-
-**Operation Heimat**
-
-*Game Development · Investigative Fiction · Interactive Storytelling*
-
-An investigative game project centred around uncovering secrets, navigating interconnected narratives, and piecing together information hidden throughout a fictional digital world.
-
-Built around environmental storytelling, fictional institutions, online rabbit holes, and investigative mechanics that encourage players to question what they're being told.
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/operationheimat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:heimatoperation@gmail.com)
-
----
-
 ### languages
 
 ![Python](https://skillicons.dev/icons?i=python)
